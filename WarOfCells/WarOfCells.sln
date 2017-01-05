@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{831807D1-C682-21E7-B341-EA36F94E1C9F}") = "WarOfCells", "Assembly-CSharp.csproj", "{644D79D6-7A82-23A1-640E-2E6D970944D6}"
+EndProject
+Project("{831807D1-C682-21E7-B341-EA36F94E1C9F}") = "WarOfCells", "Assembly-CSharp-Editor.csproj", "{02A92109-A42E-DB1A-EFAF-9C684A724CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644D79D6-7A82-23A1-640E-2E6D970944D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644D79D6-7A82-23A1-640E-2E6D970944D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644D79D6-7A82-23A1-640E-2E6D970944D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644D79D6-7A82-23A1-640E-2E6D970944D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A92109-A42E-DB1A-EFAF-9C684A724CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A92109-A42E-DB1A-EFAF-9C684A724CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A92109-A42E-DB1A-EFAF-9C684A724CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A92109-A42E-DB1A-EFAF-9C684A724CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
